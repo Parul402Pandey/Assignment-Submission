@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Scribe/StandardConnectorSettings.cs">
+    <Files>
+      <File FileName="Scribe/Connector.cs" Line="8" Column="17" />
+      <File FileName="Scribe/ConnectorSettings.cs" Line="8" Column="88" />
+      <File FileName="Scribe/StandardConnectorSettings.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Scribe" expanded="True">
+            <Node name="Scribe" expanded="True">
+              <Node name="StandardConnectorSettings.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

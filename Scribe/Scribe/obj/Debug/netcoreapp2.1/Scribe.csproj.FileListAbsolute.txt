@@ -1,0 +1,11 @@
+/Users/Craterzone/Projects/Scribe/Scribe/bin/Debug/netcoreapp2.1/Scribe.deps.json
+/Users/Craterzone/Projects/Scribe/Scribe/bin/Debug/netcoreapp2.1/Scribe.dll
+/Users/Craterzone/Projects/Scribe/Scribe/bin/Debug/netcoreapp2.1/Scribe.pdb
+/Users/Craterzone/Projects/Scribe/Scribe/bin/Debug/netcoreapp2.1/Scribe.Core.ConnectorApi.dll
+/Users/Craterzone/Projects/Scribe/Scribe/obj/Debug/netcoreapp2.1/Scribe.csprojAssemblyReference.cache
+/Users/Craterzone/Projects/Scribe/Scribe/obj/Debug/netcoreapp2.1/Scribe.csproj.CoreCompileInputs.cache
+/Users/Craterzone/Projects/Scribe/Scribe/obj/Debug/netcoreapp2.1/Scribe.AssemblyInfoInputs.cache
+/Users/Craterzone/Projects/Scribe/Scribe/obj/Debug/netcoreapp2.1/Scribe.AssemblyInfo.cs
+/Users/Craterzone/Projects/Scribe/Scribe/obj/Debug/netcoreapp2.1/Scribe.csproj.CopyComplete
+/Users/Craterzone/Projects/Scribe/Scribe/obj/Debug/netcoreapp2.1/Scribe.dll
+/Users/Craterzone/Projects/Scribe/Scribe/obj/Debug/netcoreapp2.1/Scribe.pdb
